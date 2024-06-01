@@ -1,0 +1,10 @@
+.fotoPerfil{
+    margin-top: 50px;
+}
+
+.fotoPerfil img{
+    width: 127px;
+    height: 106px;
+    border-radius: 100%;
+    border: solid 1px black;
+}

@@ -1,0 +1,22 @@
+.centro{
+    text-align: center;
+}
+.container {
+    width: 97vw;
+    height: 95vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.box {
+    width: 600px;
+    height: 820px;
+}
+body {
+    margin: 0px;
+}
+main{
+    width: 100%;
+    height: 100%;
+}

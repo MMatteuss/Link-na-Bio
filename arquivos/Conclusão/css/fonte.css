@@ -1,0 +1,14 @@
+*{
+    font-size: 23px;
+    background-color: #f3ebeb;
+}
+.nome h3{
+    font-size: 28px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.texto{
+    margin-top: 35px;
+}
+.nome{
+    margin-top: 67px;
+}

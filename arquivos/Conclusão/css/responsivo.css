@@ -1,0 +1,450 @@
+@media screen and (max-width: 443px) {
+    /* #region Butão*/
+    .btnGeral{
+        border-radius: 30px;
+        width: 500px;
+        height: 60px;
+        border: none;
+        font-size: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .btnGeral:hover{
+        opacity: 0.5;
+        cursor: pointer;
+    }
+    .caixas{
+        margin-top: 50px;
+    }
+    
+    .btn{
+        padding: 10px;
+    }
+    .btn1{
+        background-color: yellow;
+    }
+    .btn2{
+        background-color: red;
+    }
+    .btn3{
+        background-color: blue;
+    }
+    .btn4{
+        background-color: green;
+    }
+    .btn5{
+        background-color: black;
+        color: white;
+    }
+    /* #endregion */
+
+
+
+
+    /* #region STYLE */ 
+    .centro{
+        text-align: center;
+        
+    }
+    .container {
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+    .box {
+        width: 600px;
+        height: 820px;
+    }
+    body {
+        margin: 0px;
+    }
+    main{
+        width: 100%;
+        height: 100%;
+    }
+    /* #endregion */ 
+
+
+
+
+    /* #region IMAGEM */ 
+    .fotoPerfil{
+        margin-top: 50px;
+    }
+    
+    .fotoPerfil img{
+        width: 127px;
+        height: 106px;
+        
+        border-radius: 100%;
+        border: solid 1px black;
+    }
+    /* #endregion */ 
+
+
+
+
+    /* #region FONTE */ 
+    *{
+        font-size: 23px;
+        background-color: #f3ebeb;
+    }
+    .nome h3{
+        font-size: 28px;
+        margin-left: 40px;
+        margin-right: 50px;
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    }
+    .texto{
+        margin-top: 35px;
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    .nome{
+        margin-top: 67px;
+    }
+    /* #endregion */
+}
+
+@media screen and (max-width: 611px) {
+    /* #region Butão*/
+    .btnGeral{
+        border-radius: 30px;
+        width: 350px;
+        height: 60px;
+        border: none;
+        font-size: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .btnGeral:hover{
+        opacity: 0.5;
+        cursor: pointer;
+    }
+    .caixas{
+        margin-top: 50px;
+    }
+    
+    .btn{
+        padding: 10px;
+    }
+    .btn1{
+        background-color: yellow;
+    }
+    .btn2{
+        background-color: red;
+    }
+    .btn3{
+        background-color: blue;
+    }
+    .btn4{
+        background-color: green;
+    }
+    .btn5{
+        background-color: black;
+        color: white;
+    }
+    /* #endregion */
+
+
+
+
+    /* #region STYLE */ 
+    .centro{
+        text-align: center;
+        
+    }
+    .container {
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+    .box {
+        width: 600px;
+        height: 820px;
+    }
+    body {
+        margin: 0px;
+    }
+    main{
+        width: 100%;
+        height: 100%;
+    }
+    /* #endregion */ 
+
+
+
+
+    /* #region IMAGEM */ 
+    .fotoPerfil{
+        margin-top: 50px;
+    }
+    
+    .fotoPerfil img{
+        width: 127px;
+        height: 106px;
+        
+        border-radius: 100%;
+        border: solid 1px black;
+    }
+    /* #endregion */ 
+
+
+
+
+    /* #region FONTE */ 
+    *{
+        font-size: 23px;
+        background-color: #f3ebeb;
+    }
+    .nome h3{
+        font-size: 28px;
+        margin-left: 40px;
+        margin-right: 40px;
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    }
+    .texto{
+        margin-top: 35px;
+        margin-left: 40px;
+        margin-right: 80px;
+    }
+    .nome{
+        margin-top: 67px;
+    }
+    /* #endregion */
+}
+
+/*  */
+
+
+@media screen and (max-width: 437px) {
+    /* #region Butão*/
+    .btnGeral{
+        border-radius: 30px;
+        width: 249px;
+        height: 60px;
+        border: none;
+        font-size: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .btnGeral:hover{
+        opacity: 0.5;
+        cursor: pointer;
+    }
+    .caixas{
+        margin-top: 50px;
+    }
+    
+    .btn{
+        padding: 10px;
+    }
+    .btn1{
+        background-color: yellow;
+    }
+    .btn2{
+        background-color: red;
+    }
+    .btn3{
+        background-color: blue;
+    }
+    .btn4{
+        background-color: green;
+    }
+    .btn5{
+        background-color: black;
+        color: white;
+    }
+    /* #endregion */
+
+
+
+
+    /* #region STYLE */ 
+    .centro{
+        text-align: center;
+    }
+    .container {
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+    .box {
+        width: 600px;
+        height: 820px;
+    }
+    body {
+        margin: 0px;
+    }
+    main{
+        width: 100%;
+        height: 100%;
+    }
+    /* #endregion */ 
+
+
+
+
+    /* #region IMAGEM */ 
+    .fotoPerfil{
+        margin-top: 50px;
+    }
+    
+    .fotoPerfil img{
+        width: 127px;
+        height: 106px;
+        
+        border-radius: 100%;
+        border: solid 1px black;
+    }
+    /* #endregion */ 
+
+
+
+
+    /* #region FONTE */ 
+    *{
+        font-size: 23px;
+        background-color: #f3ebeb;
+    }
+    .nome h3{
+        font-size: 28px;
+        margin-left: 40px;
+        margin-right: 40px;
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    }
+    .texto{
+        margin-top: 35px;
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    .nome{
+        margin-top: 67px;
+    }
+    /* #endregion */
+}
+
+/*  */
+
+
+
+@media screen and (max-width: 249px) {
+    /* #region Butão*/
+    .btnGeral{
+        border-radius: 30px;
+        width: 212px;
+        height: 60px;
+        border: none;
+        font-size: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .btnGeral:hover{
+        opacity: 0.5;
+        cursor: pointer;
+    }
+    .caixas{
+        margin-top: 50px;
+    }
+    
+    .btn{
+        padding: 10px;
+    }
+    .btn1{
+        background-color: yellow;
+    }
+    .btn2{
+        background-color: red;
+    }
+    .btn3{
+        background-color: blue;
+    }
+    .btn4{
+        background-color: green;
+    }
+    .btn5{
+        background-color: black;
+        color: white;
+    }
+    /* #endregion */
+
+
+
+
+    /* #region STYLE */ 
+    .centro{
+        text-align: center;
+    }
+    .container {
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+    .box {
+        width: 600px;
+        height: 820px;
+    }
+    body {
+        margin: 0px;
+    }
+    main{
+        width: 100%;
+        height: 100%;
+    }
+    /* #endregion */ 
+
+
+
+
+    /* #region IMAGEM */ 
+    .fotoPerfil{
+        margin-top: 50px;
+    }
+    
+    .fotoPerfil img{
+        width: 127px;
+        height: 106px;
+        
+        border-radius: 100%;
+        border: solid 1px black;
+    }
+    /* #endregion */ 
+
+
+
+
+    /* #region FONTE */ 
+    *{
+        font-size: 23px;
+        background-color: #f3ebeb;
+    }
+    .nome h3{
+        font-size: 28px;
+        margin-left: 40px;
+        margin-right: 40px;
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    }
+    .texto{
+        margin-top: 35px;
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    .nome{
+        margin-top: 67px;
+    }
+    /* #endregion */
+}
+
+/*  */
